@@ -1,0 +1,56 @@
+.logo {
+  display: block;
+  width: 1010px;
+  margin: 0 auto;
+}
+
+.loginList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  margin-top: 150px;
+}
+
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 268px;
+  height: 51px;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.loginList li:first-child .link {
+  background: linear-gradient(106deg, #fcf788 0%, #fde359 66.67%, #faff00 100%);
+  color: #000;
+}
+
+.loginList li:nth-child(2) .link {
+  background: linear-gradient(106deg, #9c95e9 0%, #7042d2 66.67%, #ff8a00 100%);
+  color: #fff;
+}
+
+.loginList li:last-child .link {
+  background: #f4f4f4;
+  color: #000;
+}
+
+.helpLink {
+  color: #000;
+  font-family: Inter;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%; 
+  letter-spacing: -0.18px;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+  margin-top: 250px;
+  margin-left: auto;
+}
