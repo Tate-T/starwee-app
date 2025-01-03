@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/starwee-app/static/css/main.a33bb7cb.css",
-    "main.js": "/starwee-app/static/js/main.7a97e316.js",
+    "main.js": "/starwee-app/static/js/main.15456358.js",
     "static/media/bitcoin-logo.png": "/starwee-app/static/media/bitcoin-logo.7664da37d2df77a0851b.png",
     "static/media/help-icon.svg": "/starwee-app/static/media/help-icon.44dadba2f4508aa7730f790d04602705.svg",
     "index.html": "/starwee-app/index.html",
     "main.a33bb7cb.css.map": "/starwee-app/static/css/main.a33bb7cb.css.map",
-    "main.7a97e316.js.map": "/starwee-app/static/js/main.7a97e316.js.map"
+    "main.15456358.js.map": "/starwee-app/static/js/main.15456358.js.map"
   },
   "entrypoints": [
     "static/css/main.a33bb7cb.css",
-    "static/js/main.7a97e316.js"
+    "static/js/main.15456358.js"
   ]
 }
